@@ -1,6 +1,6 @@
 # Getting Started
 
-This project is a demonstration of recording Spring Repository Metrics. More about it here [blog link]()
+This project is a demonstration of recording Spring Repository Metrics. More about it here [https://www.mufaddal.dev/spring/db-metrics/2021/07/17/Collecting-Spring-Repository-Metrics-Using-Spring.html]()
 ## Running 
 To run this app, do
 
