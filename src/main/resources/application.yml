@@ -1,0 +1,12 @@
+spring:
+  data:
+    mongodb:
+      database: simple-rest-api
+
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
